@@ -1,2 +1,2 @@
 # zaio-git-netflix
-Netflix-clone
+Netflix-landing-page-clone
